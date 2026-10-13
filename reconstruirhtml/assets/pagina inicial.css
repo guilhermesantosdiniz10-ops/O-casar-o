@@ -1,0 +1,125 @@
+
+
+header {
+    background-color: #30379b;
+    color: white;
+}
+
+header button {
+    background-color: azure;
+    text-align: center;
+    color: #30379b;
+}
+
+header img {
+    text-align: left;
+    display: flex;
+}
+
+nav {
+    display: 16px;
+    gap: 50px;
+    margin-left: 60px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+.center {
+    text-align: center;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+.branco {
+    text-align: center;
+    display: flex;
+    flex-direction: inherit;
+    padding: 60px 20px;
+    width: 30%;
+}
+
+.center {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: #30379b;
+}
+
+.centralizado {
+    text-align: center;
+    display: flex;
+    flex-direction: inherit;
+    padding: 60px 20px;
+    width: 30%;
+}
+
+.labb {
+    text-align: center;
+    display: flex;
+    flex-direction: inherit;
+    padding: 50px 20px;
+    width: 30%;
+}
+
+.comer {
+    text-align: center;
+    color: #30379b;
+} 
+
+.cardapio {
+    text-align: center;
+}
+
+.oia {
+    color: #30379b;
+}
+
+.mapa {
+    width: 1000%;
+}
+
+.captura {
+    width: 25px;
+    height: 25px;
+}
+
+
+.fonte {
+    text-align: center;
+}
+
+.pastel {
+    text-align: center;
+    color: white;
+}
+
+footer {
+    background-color: #30379b;
+}
+.cap{
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    padding: 5%;
+}
+
+.wtts {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
